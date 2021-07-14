@@ -22,3 +22,7 @@ Você deve criar as funcionalidades para as três funções presentes nesse arqu
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
