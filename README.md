@@ -1,4 +1,10 @@
-# Desafio: Conceitos do React.
+<p align="center">
+  <img alt="to.do app" src=".github/app.png" width="100%">
+</p>
+
+Esse é desafio feito durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
+
+# Desafio: conceitos do react
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS.
 Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React:
@@ -22,3 +28,7 @@ Você deve criar as funcionalidades para as três funções presentes nesse arqu
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
